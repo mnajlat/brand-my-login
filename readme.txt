@@ -25,7 +25,7 @@ Unordered list:
 == Installation ==
 Upload Brand My Login plugin to your blog, Activate it.
 
-* Related admin menu will be under \"Appearance\" menu.
+* Related admin menu will be under "Appearance" menu.
 
 == Screenshots ==
 1. Settings page with 16:9 aspect ratio preview of the login page.
