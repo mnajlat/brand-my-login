@@ -12,15 +12,15 @@ Brand and style your WordPress login page quickly and lightly.
 == Description ==
 Light, fast and easy-to-use plugin for branding your WordPress login page by giving it your brand logo and theme color and extra simple styles.
 
-**Usage:**
+**What you can do with Brand My Login:**
 
 Unordered list:
 
 * Change logo image.
 * Choose background image and position.
-* Pick accent color to the login form.
-* Add border to the login form and control its width.
-* Add border radius to the login form and control it with pixels measurement.
+* Pick accent color for the login form.
+* Add border to the login form.
+* Add border radius to the login form.
 
 == Installation ==
 Upload Brand My Login plugin to your blog, Activate it.
