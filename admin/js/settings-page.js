@@ -185,11 +185,11 @@ var bml_default_settings_all = function(){
 * preview-login-page
 */
 
-function previewLoginPageZoom100(buttonElemtn){
-    jQuery(buttonElemtn).siblings().css('background-color', '');
-    jQuery(buttonElemtn).css('background-color', '#fdfdfd');
-    jQuery(buttonElemtn).siblings().css('font-weight', '');
-    jQuery(buttonElemtn).css('font-weight', '600');
+function previewLoginPageZoom100(buttonElement){
+    jQuery(buttonElement).siblings().css('background-color', '');
+    jQuery(buttonElement).css('background-color', '#fdfdfd');
+    jQuery(buttonElement).siblings().css('font-weight', '');
+    jQuery(buttonElement).css('font-weight', '600');
 
     previewIFrame = document.getElementById("preview-login-page-iframe");
 
@@ -203,11 +203,11 @@ function previewLoginPageZoom100(buttonElemtn){
     
 }
 
-function previewLoginPageZoom169(buttonElemtn){
-    jQuery(buttonElemtn).siblings().css('background-color', '');
-    jQuery(buttonElemtn).css('background-color', '#fdfdfd');
-    jQuery(buttonElemtn).siblings().css('font-weight', '');
-    jQuery(buttonElemtn).css('font-weight', '600');
+function previewLoginPageZoom169(buttonElement){
+    jQuery(buttonElement).siblings().css('background-color', '');
+    jQuery(buttonElement).css('background-color', '#fdfdfd');
+    jQuery(buttonElement).siblings().css('font-weight', '');
+    jQuery(buttonElement).css('font-weight', '600');
 
     previewIFrame = document.getElementById("preview-login-page-iframe");
 
