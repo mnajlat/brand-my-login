@@ -7,7 +7,7 @@ Author: Muhammad Alnajlat
 Author URI: https://futuremediahouse.jp/
 Copyright: Future Media House
 Text Domain: brand-my-login
-License: GPL2
+License: GPLv2 or later
 
 Brand My Login is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
