@@ -1,2 +1,2 @@
 # brand-my-login
-WordPress Plugin adds custom styles to WordPress login page.
+A WordPress Plugin adds custom styles to WordPress login page.
